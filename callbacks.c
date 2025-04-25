@@ -4,9 +4,9 @@
 
 void processRequest(int op) {
     if (op) {
-        enqueue();
-    } else {
         dequeue();
+    } else {
+        enqueue();
     }
 }
 

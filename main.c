@@ -7,7 +7,7 @@ int main() {
     enqueue();
 
     printf("main: calling dequeue()\n");
-    enqueue();
+    dequeue();
 
     return 0;
 }
