@@ -1,4 +1,4 @@
-Toy example of how to build a Mangosteen data structure.
+Toy example of how to build a Mangosteen data structure without modifying the original data structure or client code.
 
 - `main.c`: The original application's client code. 
 - `queue.h` and `queue.c`: The original interface and implementation for the queue data structure.
